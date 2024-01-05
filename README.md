@@ -53,25 +53,4 @@ The objective of this assignment is to extract textual data articles from the gi
 14. Avg Word Length
 Check "Output Data Structure.xlsx" for the format.
 
-## Timeline
 
-Complete the assignment within 6 days. Sooner submissions are preferred.
-
-## Where to Submit
-
-To submit your solution:
-1. Fill out the Google form: [Google Form](https://forms.gle/nvWAgrCBdq1JkKou8)
-2. Upload your solution to Google Drive.
-3. Share the Google Drive URL in the provided Google form.
-
-### Submission Contents:
-a) .py file
-b) Output in csv or Excel file as per the output structure
-c) Instructions:
-   - Explain your approach to the solution.
-   - Provide instructions on how to run the .py file to generate output.
-   - Include all dependencies required.
-
-**Note:** Do not include any additional files in the deliverable.
-
-Best of luck with your assignment!
